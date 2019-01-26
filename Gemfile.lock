@@ -14,8 +14,13 @@ GEM
       tzinfo (~> 1.1)
     arel (9.0.0)
     concurrent-ruby (1.1.4)
+    dotenv (2.6.0)
+    erubi (1.8.0)
     i18n (1.5.3)
       concurrent-ruby (~> 1.0)
+    mail (2.7.1)
+      mini_mime (>= 0.1.1)
+    mini_mime (1.0.1)
     minitest (5.11.3)
     mysql2 (0.5.2)
     os (1.0.0)
@@ -28,6 +33,9 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (~> 5.2, >= 5.2.2)
+  dotenv (~> 2.6)
+  erubi (~> 1.8)
+  mail (~> 2.7, >= 2.7.1)
   mysql2 (~> 0.5.2)
   os
 

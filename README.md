@@ -9,3 +9,6 @@ https://medium.com/the-renaissance-developer/idiomatic-ruby-1b5fa1445098
 
 ## Ruby Object Model - self
 https://nandovieira.com.br/ruby-object-model-self
+
+## Metaprogramação
+https://www.caelum.com.br/apostila-ruby-on-rails/metaprogramacao/
