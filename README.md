@@ -10,5 +10,8 @@ https://medium.com/the-renaissance-developer/idiomatic-ruby-1b5fa1445098
 ## Ruby Object Model - self
 https://nandovieira.com.br/ruby-object-model-self
 
+## Ruby Object Model - Singleton Class
+https://nandovieira.com.br/ruby-object-model-singleton-class
+
 ## Metaprogramação
 https://www.caelum.com.br/apostila-ruby-on-rails/metaprogramacao/

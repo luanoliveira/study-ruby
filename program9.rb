@@ -3,7 +3,7 @@ require_relative "database"
 
 
 class Cnae < ActiveRecord::Base
-    self.table_name = "cnae"
+    self.table_name = "cnaes"
 end
 
 file = File.read "./files/subclasses.json"
