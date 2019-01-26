@@ -15,3 +15,6 @@ https://nandovieira.com.br/ruby-object-model-singleton-class
 
 ## Metaprogramação
 https://www.caelum.com.br/apostila-ruby-on-rails/metaprogramacao/
+
+## Anchieta Junior - Medium
+https://medium.com/@anchietajunior
