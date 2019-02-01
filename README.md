@@ -18,3 +18,6 @@ https://www.caelum.com.br/apostila-ruby-on-rails/metaprogramacao/
 
 ## Anchieta Junior - Medium
 https://medium.com/@anchietajunior
+
+## Conhecendo Ruby - Unit testing
+https://leanpub.com/conhecendo-ruby/read#leanpub-auto-unit-testing
