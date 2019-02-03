@@ -21,3 +21,6 @@ https://medium.com/@anchietajunior
 
 ## Conhecendo Ruby - Unit testing
 https://leanpub.com/conhecendo-ruby/read#leanpub-auto-unit-testing
+
+## The Beginners Guide To Rails Helpers
+https://mixandgo.com/learn/the-beginners-guide-to-rails-helpers
