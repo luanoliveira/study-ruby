@@ -2,6 +2,9 @@
 ## One Bit Code
 https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ
 
+## Ruby on Rails Básico- aula 00 boas vindas
+https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV
+
 # Articles
 
 ## Idiomatic Ruby: writing beautiful code
