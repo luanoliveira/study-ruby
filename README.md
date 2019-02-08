@@ -27,3 +27,6 @@ https://leanpub.com/conhecendo-ruby/read#leanpub-auto-unit-testing
 
 ## The Beginners Guide To Rails Helpers
 https://mixandgo.com/learn/the-beginners-guide-to-rails-helpers
+
+## Ryan Bates' Railscast
+https://www.railstutorial.org/book/modeling_users
