@@ -30,3 +30,6 @@ https://mixandgo.com/learn/the-beginners-guide-to-rails-helpers
 
 ## Ryan Bates' Railscast
 https://www.railstutorial.org/book/modeling_users
+
+## Otimizando testes Factory Girl e RSpec
+http://shipit.resultadosdigitais.com.br/blog/otimizando-testes-factory-girl-e-rspec/
