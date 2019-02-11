@@ -10,6 +10,10 @@ file = File.read "./files/subclasses.json"
 data = JSON.parse(file)
 
 data.each do |row|
+    if Cnae.find_by(code: row["id"]).present?
+        next
+    end
+
     cnae = Cnae.new(
         code: row["id"], 
         title: row["descricao"], 
