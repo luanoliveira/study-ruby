@@ -33,3 +33,6 @@ https://www.railstutorial.org/book/modeling_users
 
 ## Otimizando testes Factory Girl e RSpec
 http://shipit.resultadosdigitais.com.br/blog/otimizando-testes-factory-girl-e-rspec/
+
+## Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem
+https://samuelmullen.com/articles/embracing-change-rails51-adopts-yarn-webpack-and-the-js-ecosystem/
