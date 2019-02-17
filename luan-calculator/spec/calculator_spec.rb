@@ -2,6 +2,14 @@ require "luan/calculator"
 
 RSpec.describe Luan::BasicCalculator do
 
+    context "testar itialize da class" do
+        it "testar initialize com valor" do
+            basic = Luan::BasicCalculator.new(2)
+            basic.subtract(1)
+            expect(basic.total).to eq(1)
+        end
+    end
+
     context "testar operação de soma" do
         it "testar soma com números" do
             basic = Luan::BasicCalculator.new
@@ -42,6 +50,19 @@ RSpec.describe Luan::BasicCalculator do
 
             basic.subtract(25,25)
             expect(basic.total).to eq(46)
+        end
+    end
+
+    context "testar operação de multiplicação" do
+        it "testar multiplicação de números" do
+            basic = Luan::BasicCalculator.new(2)
+            basic.multiply(2)
+            expect(basic.total).to eq(4)
+            basic.reset
+
+            basic = Luan::BasicCalculator.new(2)
+            basic.multiply(3)
+            expect(basic.total).to eq(6)
         end
     end
 
