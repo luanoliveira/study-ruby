@@ -36,3 +36,6 @@ http://shipit.resultadosdigitais.com.br/blog/otimizando-testes-factory-girl-e-rs
 
 ## Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem
 https://samuelmullen.com/articles/embracing-change-rails51-adopts-yarn-webpack-and-the-js-ecosystem/
+
+## Criando uma API Completa com rails
+https://www.youtube.com/watch?v=EqOoElCjpNI
