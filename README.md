@@ -39,3 +39,6 @@ https://samuelmullen.com/articles/embracing-change-rails51-adopts-yarn-webpack-a
 
 ## Criando uma API Completa com rails
 https://www.youtube.com/watch?v=EqOoElCjpNI
+
+# Gems
+https://github.com/fazibear/colorize
