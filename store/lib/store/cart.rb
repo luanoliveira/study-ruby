@@ -14,8 +14,16 @@ module Store
             end            
         end
 
+        def remove(id)
+            @itens.delete_if do |current|
+                current.id == id
+            end
+        end
+
         def total
-            return @itens.count
+            @itens.reduce(0) do |current, item|
+                current += item.price
+            end
         end
     end
 end
